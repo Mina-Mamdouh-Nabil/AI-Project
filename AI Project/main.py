@@ -1,16 +1,5 @@
 # hello_world.py
 from typing import List, Any
-
-# import PySimpleGUI as sg
-#
-# layout = [
-#     [
-#
-#      sg.Button('Enter image'),
-#     ]
-# ],
-# sg.Window("Object detection app", layout , margins=(200, 100),resizable=True).read()
-
 import io
 import os
 import PySimpleGUI as sg
