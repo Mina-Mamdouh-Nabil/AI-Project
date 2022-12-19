@@ -1,6 +1,7 @@
 
 # Create Decision Tree classifer object
 from sklearn.tree import DecisionTreeClassifier
+from sklearn import metrics
 clf = DecisionTreeClassifier()
 
 # Train Decision Tree Classifer
